@@ -2,7 +2,7 @@
 クラス
 
 ## 処理
-クラスで"helloworld"と出力します。
+クラスで"Hello World"と出力します。
 
 ## コード
 ```
@@ -19,7 +19,7 @@
         }
     }
 
-    var gree = new Greeting("hello world");
+    var gree = new Greeting("Hello World");
     gree.helloworld();
 
 })();
@@ -27,7 +27,7 @@
 
 ## 出力結果  
 ```
-hello world
+Hello World
 ```
   
 ## 開発環境
